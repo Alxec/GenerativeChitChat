@@ -1,5 +1,7 @@
 # Generative Chit Chat
 
+The task here is to build a generative language model that answers questions. It is trained on the dataset of QA pairs in Russian from otvet.mail.ru (the users of this website ask any questions that are answered by other users). The code is in Chit_Chat.ipynb, all comments are in English.
+
 ## Как сделать домашку
 - Склонируйте этот репозиторий
 - Установите зависимости
